@@ -4,6 +4,6 @@ Implementing ridge regression with 10-fold cross validation for hyperparameter t
 Data is from Census ACS, 538, and US FEC.
 
 To do:
--- Implement best subset
--- Implement lasso
--- Finish write-up
+1) Implement best subset
+2) Implement lasso
+3) Finish write-up
