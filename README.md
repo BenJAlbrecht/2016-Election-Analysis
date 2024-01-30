@@ -7,6 +7,8 @@ Using linear models to identify the impact of certain state-level features on th
 ## GitHub files
 * [Data Cleaning Examples](Data%20Cleaning%20Examples)
   * Examples of how I cleaned the sourced data.
+* [Linear Models](Linear%20Models)
+  * Linear model implementation and analysis.
 
 ### Data
 Dataset is a compilation of 2016 state-level data from the Federal Election Commission, Census American Community Survey, and website 538.
