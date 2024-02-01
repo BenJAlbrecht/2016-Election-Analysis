@@ -1,7 +1,7 @@
 # 2016 Election Analysis
 Using linear models to identify the impact of certain state-level features on the 2016 US presidential election. See [Final Analysis](Final%20Analysis.ipynb) for presentation of results and discussion.
 
-For every 1% increase in college attainment of white adults, we expect a 0.004 percentage point increase in the Democratic vote share for a typical state.
+For every 1% increase in college attainment of white adults, we expect a 0.4 percentage point increase in the Democratic vote share for a typical state.
 
 These results show the importance of education polarization, especially among white voters in US presidential elections.
 
